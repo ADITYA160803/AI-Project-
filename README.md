@@ -158,12 +158,8 @@ Enter any message → get prediction (Spam / Safe).
 
 ## 📌 Notes
 
-- Dataset is not included due to licensing restrictions.
 - Only trained model files are included for prediction.
 - ANN & CNN can also be integrated into Flask if required.
 
 ---
 
-## 📥 Download README.md
-
-This file is provided below.
