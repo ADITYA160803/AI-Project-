@@ -34,6 +34,7 @@ The goal is to classify messages as **Spam** or **Safe (Ham)** based on textual 
 | `templates/` | HTML UI files (`index.html`, `result.html`) |
 | `static/` | CSS/JS files for styling UI |
 | `README.md` | Project documentation |
+| `spam mail.csv` | Data Set |
 
 ---
 
