@@ -7,7 +7,7 @@ app = Flask(__name__)
 # Load once on startup
 model, vect = load_artifacts()
 
-@app.route("/", methods=["GET"
+@app.route("/", methods=["GET"])
 def index():
     return render_template("index.html")
 
